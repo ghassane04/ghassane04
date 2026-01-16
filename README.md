@@ -11,11 +11,11 @@
 
 ### 🚀 À propos de moi
 
-Passionné par les technologies innovantes, je combine mes compétences en **Développement Fullstack**, **Data Engineering** et **Machine Learning** pour concevoir des solutions scalables et performantes. Je suis particulièrement intéressé par les architectures distribuées et le DevOps.
+Passionné par les technologies innovantes, je combine mes compétences en **Développement Fullstack**, **Data Engineering** et **Machine Learning** pour concevoir des solutions scalables, performantes et centrées sur l'utilisateur.
 
 🎓 **Actuellement** : Étudiant en 5ème année à l'École Marocaine des Sciences de l’Ingénieur (EMSI), Marrakech.
 🎯 **Objectif** : Je recherche un **Stage de Fin d'Études (PFE)** de 4 à 6 mois à partir de **Février 2026**.
-💡 **Domaines d'intérêt** : Machine Learning, Data Engineering, DevOps, Cloud Computing.
+💡 **Intérêts Techniques** : Architectures Distribuées, pipelines ML reproductibles, DevOps & Cloud.
 
 ---
 
@@ -54,12 +54,45 @@ Passionné par les technologies innovantes, je combine mes compétences en **Dé
 
 ---
 
-### 📂 Projets Récents
+### 🏆 Projets & Réalisations
 
-- **EcoLabel-MS** : Système distribué pour l'éco-score (Python, FastAPI, Spark, MLflow).
-- **Notify Hub** : Plateforme de gestion de notifications internes (Spring Boot, React, Docker).
-- **RedCityAdventure** : Plateforme de services touristiques (Laravel, PHP).
-- **Reconnaissace Faciale** : App Desktop de contrôle d'accès (Python, OpenCV).
+#### 🏢 Expériences Professionnelles
+
+**🔹 Notify Hub (Stage PFA @ Ménara Holding)**
+> *Plateforme centralisée de gestion des notifications internes.*
+> * **Challenge** : Moderniser la communication interne et réduire les délais de transmission d'information.
+> * **Solution** : Développement d'une architecture micro-services sécurisée.
+> * **Tech** : `Spring Boot` `React` `TypeScript` `JWT` `Docker` `MySQL`
+> * **Points clés** :
+>   - Mise en place d'une authentification JWT robuste et gestion des rôles (RBAC).
+>   - Tableau de bord administrateur interactif pour le suivi en temps réel.
+>   - Intégration d'un **Chatbot** d'assistance pour les employés.
+
+**🔹 RedCityAdventure (Stage PFA @ GOLDINIOUS)**
+> *Plateforme digitale de réservation de services touristiques.*
+> * **Solution** : Création d'un portail web complet pour la gestion des expériences touristiques à Marrakech.
+> * **Tech** : `Laravel` `PHP` `Bootstrap` `MySQL`
+> * **Points clés** :
+>   - Gestion complète des réservations, guides et plannings.
+>   - Espace client personnalisé et système de paiement sécurisé.
+
+#### 🧪 Projets de Recherche & Académiques
+
+**🔹 EcoLabel-MS (Projet de Recherche)**
+> *Système distribué d’estimation d’éco-score (A–E) pour produits de consommation.*
+> * **Innovation** : Utilisation de l'IA pour traiter des données produits hétérogènes et non structurées.
+> * **Tech** : `Python` `FastAPI` `Apache Spark` `MLflow` `Scikit-learn` `BERT`
+> * **Points clés** :
+>   - Pipeline ETL performant avec **OCR** et **NLP (BERT)** pour l'extraction de données.
+>   - Calcul d'indicateurs ACV (Analyse de Cycle de Vie) simplifiés.
+>   - Gestion du cycle de vie des modèles ML avec MLflow.
+
+**🔹 Application de Reconnaissance Faciale**
+> *Système de contrôle d’accès biométrique.*
+> * **Tech** : `Python` `OpenCV` `Dlib` `Tkinter`
+> * **Points clés** :
+>   - Détection et identification en temps réel via flux vidéo.
+>   - Interface utilisateur desktop pour la gestion des accès.
 
 ---
 
