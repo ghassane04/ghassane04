@@ -1,7 +1,9 @@
 # Salut, je suis Ghassane Bougerfaoui ! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" alt="Coding Gif" width="500" />
+  <img src="https://github.com/ghassane04.png" alt="Ghassane Bougerfaoui" width="150" style="border-radius: 50%;" />
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="500" />
   <br>
   <b>Étudiant en Ingénierie Informatique et Réseaux (MIAGE) à l'EMSI</b>
   <br>
@@ -99,8 +101,8 @@ Passionné par les technologies innovantes, je combine mes compétences en **Dé
 ### 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghassane04&show_icons=true&theme=radical" alt="Ghassane's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassane04&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghassane04&amp;show_icons=true&amp;theme=radical" alt="Ghassane's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassane04&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
 </div>
 
 ---
