@@ -1,27 +1,39 @@
-# Salut, je suis Ghassane Bougerfaoui ! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Data+Engineering+Student;Machine+Learning+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://github.com/ghassane04.png" alt="Ghassane Bougerfaoui" width="150" style="border-radius: 50%;" />
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="500" />
   <br>
-  <b>Étudiant en Ingénierie Informatique et Réseaux (MIAGE) à l'EMSI</b>
+  <h3>Ghassane Bougerfaoui</h3>
+  <p>📍 Basé à Marrakech, Maroc | 💻 Transformer les données en solutions intelligentes</p>
   <br>
+  <a href="mailto:ghassanebougerfaoui2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ghassane-bougerfaoui-b6b13a30b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
 ### 🚀 À propos de moi
 
-Passionné par les technologies innovantes, je combine mes compétences en **Développement Fullstack**, **Data Engineering** et **Machine Learning** pour concevoir des solutions scalables, performantes et centrées sur l'utilisateur.
+Je suis étudiant en **5ème année d'Ingénierie Informatique et Réseaux (MIAGE)** à l'**École Marocaine des Sciences de l’Ingénieur (EMSI)**.
 
-🎓 **Actuellement** : Étudiant en 5ème année à l'École Marocaine des Sciences de l’Ingénieur (EMSI), Marrakech.
-🎯 **Objectif** : Je recherche un **Stage de Fin d'Études (PFE)** de 4 à 6 mois à partir de **Février 2026**.
-💡 **Intérêts Techniques** : Architectures Distribuées, pipelines ML reproductibles, DevOps & Cloud.
+🔭 J'aime concevoir des systèmes distribués et créer des pipelines ML reproductibles.
+
+🌱 Actuellement en train d'explorer **DevOps**, **Cloud Architectures** et **Advanced NLP**.
+
+💬 Posez-moi des questions sur **Python, Spring Boot, Data Engineering & Machine Learning**.
+
+⚡ Fun fact : Je crois que l'IA ne remplace pas l'ingénieur, elle le "supercharge" !
 
 ---
 
-### 🛠️ Compétences Techniques
+### 🛠️ Tech Stack & Compétences
 
 #### 💻 Langages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,11 +49,6 @@ Passionné par les technologies innovantes, je combine mes compétences en **Dé
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 #### 📊 Data & IA
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -56,64 +63,91 @@ Passionné par les technologies innovantes, je combine mes compétences en **Dé
 
 ---
 
-### 🏆 Projets & Réalisations
+### 💼 Expériences Professionnelles
 
-#### 🏢 Expériences Professionnelles
+#### 🔸 Notify Hub (Stage PFA @ Ménara Holding)
+**Plateforme centralisée de gestion des notifications internes**
+> *Moderniser la communication interne et réduire les délais de transmission d'information.*
 
-**🔹 Notify Hub (Stage PFA @ Ménara Holding)**
-> *Plateforme centralisée de gestion des notifications internes.*
-> * **Challenge** : Moderniser la communication interne et réduire les délais de transmission d'information.
-> * **Solution** : Développement d'une architecture micro-services sécurisée.
-> * **Tech** : `Spring Boot` `React` `TypeScript` `JWT` `Docker` `MySQL`
-> * **Points clés** :
->   - Mise en place d'une authentification JWT robuste et gestion des rôles (RBAC).
->   - Tableau de bord administrateur interactif pour le suivi en temps réel.
->   - Intégration d'un **Chatbot** d'assistance pour les employés.
+`Spring Boot` `React` `TypeScript` `JWT` `Docker` `MySQL`
 
-**🔹 RedCityAdventure (Stage PFA @ GOLDINIOUS)**
-> *Plateforme digitale de réservation de services touristiques.*
-> * **Solution** : Création d'un portail web complet pour la gestion des expériences touristiques à Marrakech.
-> * **Tech** : `Laravel` `PHP` `Bootstrap` `MySQL`
-> * **Points clés** :
->   - Gestion complète des réservations, guides et plannings.
->   - Espace client personnalisé et système de paiement sécurisé.
+*   Mise en place d'une authentification JWT robuste et gestion des rôles (RBAC).
+*   Tableau de bord administrateur interactif pour le suivi en temps réel.
+*   Intégration d'un **Chatbot** d'assistance pour les employés.
 
-#### 🧪 Projets de Recherche & Académiques
+#### 🔸 RedCityAdventure (Stage PFA @ GOLDINIOUS)
+**Plateforme digitale de réservation de services touristiques**
+> *Portail web complet pour la gestion des expériences touristiques à Marrakech.*
 
-**🔹 EcoLabel-MS (Projet de Recherche)**
-> *Système distribué d’estimation d’éco-score (A–E) pour produits de consommation.*
-> * **Innovation** : Utilisation de l'IA pour traiter des données produits hétérogènes et non structurées.
-> * **Tech** : `Python` `FastAPI` `Apache Spark` `MLflow` `Scikit-learn` `BERT`
-> * **Points clés** :
->   - Pipeline ETL performant avec **OCR** et **NLP (BERT)** pour l'extraction de données.
->   - Calcul d'indicateurs ACV (Analyse de Cycle de Vie) simplifiés.
->   - Gestion du cycle de vie des modèles ML avec MLflow.
+`Laravel` `PHP` `Bootstrap` `MySQL`
 
-**🔹 Application de Reconnaissance Faciale**
-> *Système de contrôle d’accès biométrique.*
-> * **Tech** : `Python` `OpenCV` `Dlib` `Tkinter`
-> * **Points clés** :
->   - Détection et identification en temps réel via flux vidéo.
->   - Interface utilisateur desktop pour la gestion des accès.
+*   Gestion complète des réservations, guides et plannings.
+*   Espace client personnalisé et système de paiement sécurisé.
+
+---
+
+### 🧪 Projets & Réalisations
+
+#### 🌿 EcoLabel-MS (Projet de Recherche)
+**Système distribué d’estimation d’éco-score (A–E)**
+> *Innovation : Utilisation de l'IA pour traiter des données produits hétérogènes.*
+
+`Python` `FastAPI` `Apache Spark` `MLflow` `BERT`
+
+*   Pipeline ETL performant avec **OCR** et **NLP**.
+*   Gestion du cycle de vie des modèles ML avec MLflow.
+
+#### 👁️ Reconnaissance Faciale
+**Système de contrôle d’accès biométrique**
+> *Détection et identification en temps réel via flux vidéo.*
+
+`Python` `OpenCV` `Dlib`
+
+*   Interface utilisateur desktop sécurisée.
+
+---
+
+### 🎓 Formation
+
+**École Marocaine des Sciences de l’Ingénieur (EMSI)**
+📍 Marrakech, Maroc
+*5ème année – Ingénierie Informatique et Réseaux (MIAGE)*
+
+---
+
+### 🌐 Langues
+
+| Langue | Niveau |
+|:---:|:---:|
+| 🇲🇦 Arabe | ⭐⭐⭐⭐⭐ Natif |
+| 🇫🇷 Français | ⭐⭐⭐⭐ Avancé |
+| 🇬🇧 Anglais | ⭐⭐⭐⭐ Avancé |
 
 ---
 
 ### 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghassane04&amp;show_icons=true&amp;theme=radical" alt="Ghassane's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassane04&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
+  <a href="https://github.com/ghassane04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassane04&amp;show_icons=true&amp;theme=radical&amp;count_private=true" alt="Ghassane's GitHub stats" />
+  </a>
+  <a href="https://github.com/ghassane04">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassane04&amp;theme=radical" alt="Ghassane's GitHub Streak" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/ghassane04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassane04&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghassane04&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-### 📫 Me contacter
-
 <p align="center">
-  <a href="mailto:ghassanebougerfaoui2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ghassane-bougerfaoui-b6b13a30b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  💡 <i>"Turning coffee into code and data into insights."</i>
 </p>
